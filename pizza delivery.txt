@@ -9,3 +9,7 @@
     b. pay at door - see step 7
 6. Give credit card info 
 7. wait
+8. answer the door
+    a. pay at door - see step 9
+9. take pizza
+10. eat pizza
